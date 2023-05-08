@@ -1,0 +1,12 @@
+.button{
+    height: 44px;
+    background-color: #FFF;
+    letter-spacing: 0.2px;
+    cursor: pointer;
+}
+
+.button:hover{
+
+    background-color: #f9f8fa;
+    transition: all .4s cubic-bezier(.4,0,.3,1);
+}
